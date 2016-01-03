@@ -6,4 +6,4 @@ MOSFET を使ってモータを制御してみた回路
 ----------------
 こんなかんじ
 
-<img src="https://raw.github.com/wiki/utahkaA/arduino-playground/img/mosfet.png">
+<img src="https://raw.githubusercontent.com/utahkaA/arduino-playground/images/mosfet.png">
